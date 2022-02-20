@@ -6,7 +6,7 @@ import pandas as pd
 
 #Index
 from numpy.lib.shape_base import column_stack
-import matplotlib 
+import matplotlib as mpl
 mpl.use("TkAgg")
 import matplotlib.pyplot as plt
 from datetime import datetime
